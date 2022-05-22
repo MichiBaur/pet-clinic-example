@@ -13,6 +13,9 @@
   <name>petclinic</name>
 
   <properties>
+    <sonar.organization>michibaur</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    <sonar.projektKey>MichiBaur_pet-clinic-example</sonar.projektKey>
 
     <!-- Generic properties -->
     <java.version>1.8</java.version>
